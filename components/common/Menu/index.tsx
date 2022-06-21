@@ -12,8 +12,8 @@ const Menu: React.FC<MenuProps> = ({ actions, label }) => {
   return (
     <MenuContainer>
       {label && <Label>{label}</Label>}
-      {actions.map((action: Action) => (
-        <MenuItem onClick={() => action.action()}>
+      {actions.map((action: Action, index: React.Key) => (
+        <MenuItem onClick={() => action.action()} key={index}>
           {action.icon && (
             <IconContainer>
               <Image src={action.icon} width={24} height={24} />
