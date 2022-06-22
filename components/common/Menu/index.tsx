@@ -16,7 +16,7 @@ const Menu: React.FC<MenuProps> = ({ actions, label }) => {
         <MenuItem onClick={() => action.action()} key={index}>
           {action.icon && (
             <IconContainer>
-              <Image src={action.icon} width={24} height={24} />
+              <Image src={action.icon} width={24} height={24} alt=":( Not Found" />
             </IconContainer>
           )}
           {action.label}

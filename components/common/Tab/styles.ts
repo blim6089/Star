@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const TabContainer = styled.div<{ size: "small" | "large" }>`
   display: flex;
   padding: ${(props) => (props.size === `small` ? `none` : `6px 4px`)};

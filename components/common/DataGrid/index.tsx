@@ -86,6 +86,7 @@ const DataGrid: React.FC<DataGridProps> = ({
               src="/assets/images/icons/arrow-left-light.svg"
               width={24}
               height={24}
+              alt=":( Not Found"
             />
           </PaginationAction>
           <PaginationAction active={index !== pageCount - 1}>
@@ -94,6 +95,7 @@ const DataGrid: React.FC<DataGridProps> = ({
               width={24}
               height={24}
               onClick={handleNext}
+              alt=":( Not Found"
             />
           </PaginationAction>
         </PaginationActionContainer>

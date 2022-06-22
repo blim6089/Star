@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 const color = {
   default: "#FFF",
   success: "#30B28C",

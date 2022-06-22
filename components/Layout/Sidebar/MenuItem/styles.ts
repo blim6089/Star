@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const ArrowContainer = styled.div`
   cursor: default;
   width: 24px;

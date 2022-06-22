@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const SidebarContainer = styled.div<{ isOpen: boolean }>`
   width: 256px;
   height: 100vh;

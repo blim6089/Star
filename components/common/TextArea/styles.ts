@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const TextAreaContainer = styled.div<{ mb: number }>`
   margin-bottom: ${(props) => props.mb}px;
 `;

@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const LayoutContainer = styled.div`
   display: flex;
 `;

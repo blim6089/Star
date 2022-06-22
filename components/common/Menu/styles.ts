@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const MenuContainer = styled.div`
   width: 278px;
   background: #1f2128;

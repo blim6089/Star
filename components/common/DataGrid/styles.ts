@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const DataGridContainer = styled.div``;
 
 export const DataTable = styled.table`

@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const CreateNewContainer = styled.div`
   @media (max-width: 1024px) {
     margin-bottom: 0px;

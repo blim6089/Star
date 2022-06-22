@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const BreadcrumbContainer = styled.div`
   display: flex;
   align-items: center;

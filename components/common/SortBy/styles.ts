@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const SortByContainer = styled.div`
   position: relative;
 

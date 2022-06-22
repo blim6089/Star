@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const TriviaContainer = styled.div`
   width: 100%;
   background: #292d36;

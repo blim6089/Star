@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 const color = {
   light: "#FFF",
   "light-warning": "#E45F35",

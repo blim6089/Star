@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const ActivityContainer = styled.div`
   display: flex;
   justify-content: space-between;

@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const MobileTopbarContainer = styled.div`
   position: fixed;
   top: 0;

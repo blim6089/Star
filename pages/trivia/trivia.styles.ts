@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const TriviaContainer = styled.div`
   @media (max-width: 768px) {
     padding-top: 60px;

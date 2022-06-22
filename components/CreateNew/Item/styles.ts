@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const ItemContainer = styled.div`
   width: 100%;
   border-radius: 20px;

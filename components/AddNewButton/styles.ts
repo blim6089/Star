@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const AddText = styled.span`
   font-weight: 600;
   font-size: 16px;

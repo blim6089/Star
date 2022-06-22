@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const LatestActivitiesContainer = styled.div`
   @media (max-width: 1024px) {
     margin-bottom: 60px;

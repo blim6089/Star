@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const BadgeContainer = styled.span<{ color: "success" | "warning" }>`
   font-family: "Montserrat";
   font-weight: 700;

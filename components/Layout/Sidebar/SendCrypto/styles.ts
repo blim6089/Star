@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const SendCryptoContainer = styled.div`
   width: 100%;
   position: relative;

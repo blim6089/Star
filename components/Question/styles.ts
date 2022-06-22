@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
+const styles = {};
+export default styles;
+
 export const QuestionContainer = styled.div`
   margin-bottom: 60px;
 `;
