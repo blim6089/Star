@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const styles = {};
+const styles = () => {}
 export default styles;
 
 export const LayoutContainer = styled.div`
